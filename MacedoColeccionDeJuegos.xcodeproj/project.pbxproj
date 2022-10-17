@@ -14,6 +14,7 @@
 		B41CB72E28FDDF110089FA43 /* MacedoColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B41CB72C28FDDF110089FA43 /* MacedoColeccionDeJuegos.xcdatamodeld */; };
 		B41CB73028FDDF150089FA43 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B41CB72F28FDDF150089FA43 /* Assets.xcassets */; };
 		B41CB73328FDDF150089FA43 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B41CB73128FDDF150089FA43 /* LaunchScreen.storyboard */; };
+		B41CB73B28FDEB480089FA43 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B41CB73A28FDEB480089FA43 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B41CB72F28FDDF150089FA43 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B41CB73228FDDF150089FA43 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B41CB73428FDDF150089FA43 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B41CB73A28FDEB480089FA43 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				B41CB73128FDDF150089FA43 /* LaunchScreen.storyboard */,
 				B41CB73428FDDF150089FA43 /* Info.plist */,
 				B41CB72C28FDDF110089FA43 /* MacedoColeccionDeJuegos.xcdatamodeld */,
+				B41CB73A28FDEB480089FA43 /* JuegosViewController.swift */,
 			);
 			path = MacedoColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B41CB73B28FDEB480089FA43 /* JuegosViewController.swift in Sources */,
 				B41CB72828FDDF110089FA43 /* ViewController.swift in Sources */,
 				B41CB72428FDDF110089FA43 /* AppDelegate.swift in Sources */,
 				B41CB72E28FDDF110089FA43 /* MacedoColeccionDeJuegos.xcdatamodeld in Sources */,
